@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OldComputerGuy
 - 👀 I’m interested in old computers
-- 🌱 I’m currently thinking about releasing a lot of retro source-code
+- 🌱 I’m currently thinking about releasing a lot of retro source-code (much more to come)
 - 💞️ I’m looking for people to help me maintain Mophun gaming system and all of its games.
 - 📫 You can reach me by messaging me.
 
